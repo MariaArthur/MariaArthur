@@ -6,19 +6,17 @@
     I'm Maya, a 2nd-year Computer Science student specializing in Data Science ✨  
     💼 BSC @ MMU ✦︎ Data Science
     💻 Projects ✦︎ WIP... ᶻ 𝗓 𐰁 .ᐟ
-    📖 Languages ✦︎ Python ✦︎ R ✦︎ HTML ✦︎ CSS ✦︎ C++ ✦︎ SQL ✦︎ Java ✦︎ Javascript
+    📖 Languages ✦︎ Python ✦︎ R ✦︎ HTML ✦︎ CSS ✦︎  SQL ✦︎ Power BI
 </pre>
 <br>
 
 
 ## 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
