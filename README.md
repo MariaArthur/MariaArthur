@@ -3,7 +3,7 @@
 
     
 <pre style="width: 70%; display: inline-block;">
-    I'm Maya, a 2nd-year Computer Science student specializing in Data Science ✨  
+    I'm Maya, a graduate Computer Science student specializing in Data Science ✨  
     💼 BSC @ MMU ✦︎ Data Science
     💻 Projects ✦︎ WIP... ᶻ 𝗓 𐰁 .ᐟ
     📖 Languages ✦︎ Python ✦︎ R ✦︎ HTML ✦︎ CSS ✦︎  SQL ✦︎ Power BI
